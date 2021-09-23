@@ -9,4 +9,4 @@ En este libro el autor revisa las grandes teorías de la geopolítica:
 * Nicolas  J. Spykman y la teoría del anillo continental
 * Alfred Thayer Mahan y la importancia del poder marítimo
 
-Puedes comprarlo [aquí](https://www.casadellibro.com/libro-la-venganza-de-la-geografia/9788490567906/5246852) 
+Puedes comprarlo [aquí](https://www.casadellibro.com/libro-la-venganza-de-la-geografia/9788490567906/5246852). 
