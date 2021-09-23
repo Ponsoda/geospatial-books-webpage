@@ -1,5 +1,6 @@
 ---
 title: "Como mentir con mapas (How to lie with maps)"
+date: 2020-03-18
 layout: post
 ---
 
