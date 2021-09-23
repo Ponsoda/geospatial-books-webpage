@@ -4,7 +4,8 @@ layout: home
 title: Inicio
 ---
 
-Blog sobre geolibros.
+Colección de libros relacionados con las ciencias geoespaciales.
+
 
 [gh-site]: https://pages.github.com/
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable
