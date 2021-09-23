@@ -7,3 +7,5 @@ layout: post
 * Uno de los libros más icónicos en el mundo de GIS y cartografía. 
 * Muestra todos los detalles por los cuales está compuesto un mapa y como no caer en fallos que pueden transmitir una información erronea. 
 * No obstante, y como se explica varias veces en el libro, los mapas siempre son elementos subjetivos.
+
+Puedes comprarlo [aquí](https://www.fruugo.es/como-mentir-con-maps-third-edition/p-51640078-103952091?language=es&ac=croud) 
