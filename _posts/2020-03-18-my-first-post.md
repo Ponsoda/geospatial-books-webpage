@@ -1,7 +1,10 @@
 ---
-title: "Tutorial I: my first post"
+title: "Como mentir con mapas (How to lie with maps)"
 date: 2020-03-18
 layout: post
 ---
 
-First post
+*Escrito por  Mark Monmonier* 
+* Uno de los libros más icónicos en el mundo de GIS y cartografía. 
+* Muestra todos los detalles por los cuales está compuesto un mapa y como no caer en fallos que pueden transmitir una información erronea. 
+* No obstante, y como se explica varias veces en el libro, los mapas siempre son elementos subjetivos.
