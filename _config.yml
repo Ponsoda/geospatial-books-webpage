@@ -1,15 +1,15 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Libros geoespaciales
+description: Blog sobre libros relacionados con ciencias geoespaciales
+author: "Ignacio Ponsoda Llorens"
 
 theme: minima
 
 base_url: /gh-pages-minima-starter
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: PonsodaN
+github_username: Ponsoda
+linkedin_username: ignponsoda
 rss: rss
 
 # Minima: show excerpts in the frontpage
