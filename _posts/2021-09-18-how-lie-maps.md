@@ -1,12 +1,11 @@
 ---
-title: "La venganza de la geografía (The revenge of geography)"
+title: "Como mentir con mapas (How to lie with maps)"
 layout: post
 ---
 
-*Escrito por  Robert D. Kaplan* 
-En este libro el autor revisa las grandes teorías de la geopolítica:
-* Halford John Mackinder y la teoría del hearthland que desarrolla en su "The Geographical Pivot of History"
-* Nicolas  J. Spykman y la teoría del anillo continental
-* Alfred Thayer Mahan y la importancia del poder marítimo
+*Escrito por  Mark Monmonier* 
+* Uno de los libros más icónicos en el mundo de GIS y cartografía. 
+* Muestra todos los detalles por los cuales está compuesto un mapa y como no caer en fallos que pueden transmitir una información erronea. 
+* No obstante, y como se explica varias veces en el libro, los mapas siempre son elementos subjetivos.
 
-Puedes comprarlo [aquí](https://www.casadellibro.com/libro-la-venganza-de-la-geografia/9788490567906/5246852). 
+Puedes comprarlo [aquí](https://www.fruugo.es/como-mentir-con-maps-third-edition/p-51640078-103952091?language=es&ac=croud&gclid=CjwKCAjwy7CKBhBMEiwA0Eb7ao-iZ_T7lIfMiiV5K-tHVukKuBEaDFz3CgbT7C_jw--9gPbfhRnN1BoCgwIQAvD_BwE). 
